@@ -24,7 +24,7 @@ setup(
     author = 'Scott Wallace',                   # Type in your name
     author_email = 'wallacescott1930@gmail.com',      # Type in your E-Mail
     url = 'https://github.com/madscott68/QT-PyQt-PySide-Custom-Widgets',   # Provide either the link to your github or to your website
-    download_url = 'https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/archive/refs/heads/main.zip',    #
+    download_url = 'https://github.com/madscott68/QT-PyQt-PySide-Custom-Widgets',    #
     keywords = ['PySide', 'PyQt', 'animation', 'custom', 'widgets', "QML", "C++", "QT Creator", "Moder GUI", "Desktop GUI", "Design"],   # Keywords that define your package best
     install_requires=[
         "qtpy",
