@@ -9,7 +9,7 @@ README = (HERE / "README.md").read_text()
 
 # This call to setup() does all the work
 setup(
-    name = 'QT-PyQt-PySide-Custom-Widgets',         # How you named your package folder (MyLib)
+    name = 'QT-PyQt-PySide-Custom-Widgets',# How you named your package folder (MyLib)
     packages = [
         'Custom_Widgets',
         'Custom_Widgets.iconify',
@@ -21,9 +21,9 @@ setup(
     description = 'Custom widgets and widget animations made for QT applications',   # Give a short description about your library
     long_description=README,
     long_description_content_type="text/markdown",
-    author = 'Khamisi Kibet',                   # Type in your name
-    author_email = 'kibetkhamisi@gmail.com',      # Type in your E-Mail
-    url = 'https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets',   # Provide either the link to your github or to your website
+    author = 'Scott Wallace',                   # Type in your name
+    author_email = 'wallacescott1930@gmail.com',      # Type in your E-Mail
+    url = 'https://github.com/madscott68/QT-PyQt-PySide-Custom-Widgets',   # Provide either the link to your github or to your website
     download_url = 'https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets/archive/refs/heads/main.zip',    #
     keywords = ['PySide', 'PyQt', 'animation', 'custom', 'widgets', "QML", "C++", "QT Creator", "Moder GUI", "Desktop GUI", "Design"],   # Keywords that define your package best
     install_requires=[
